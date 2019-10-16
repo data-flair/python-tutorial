@@ -107,8 +107,8 @@ Let’s discuss some features of Python now.
 Let’s talk about the important concepts you should learn in Python.
 
  - Syntax
-  - - Statements, Indentation, and Comments
- - - Variables and Data Types
+   - Statements, Indentation, and Comments
+  - Variables and Data Types
  - - - Numbers
 Strings
 Booleans
