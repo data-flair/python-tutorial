@@ -69,6 +69,140 @@ Violent Python - TJ O’Connor
 Python Pocket Reference - Mark Lutz
 
 
+## 6. Basics of Python for beginners
+
+### a. Basics Constructs
+
+Let’s first see what Python looks like.
+
+ - Functions - Collections of statements grouped under a name. May or may not return a value.
+ - Classes and Objects - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
+ - Modules - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
+ - Packages - They are collections of related modules. You can also create your own packages.
+ - Lists - These are collections of values in the CSV format. Lists are mutable objects.
+ - Tuples - These are like lists, but immutable.
+ - Dictionaries - These are collections of key-value pairs defined using curly braces.
+ - Sets - They can’t have duplicates, and are mutable.
+ - Comments and Docstrings - Comments are for the developer, explain code and are declared with a hash (#) sign. Docstrings are documentation strings that explain code. There are no multiline comments.
+
+### b. Python Features
+
+Let’s discuss some features of Python now.
+
+ - Easy to learn/read/write/debug
+ - Expressive
+ - Free and Open-Source
+ - High-level
+ - Portable
+ - Interpreted
+ - Object-oriented
+ - Extensible
+ - Embeddable
+ - Large standard library
+ - GUI programming
+ - Dynamically typed
+
+
+Concepts to Learn
+
+Let’s talk about the important concepts you should learn in Python.
+
+Syntax
+Statements, Indentation, and Comments
+Variables and Data Types
+Numbers
+Strings
+Booleans
+Variable Scope
+Identifiers
+Namespace and Scope
+Operators
+Bitwise
+Comparison
+Precedence
+Slicing
+Ternary
+Data Structures
+Lists
+Tuples
+Dictionaries
+Sets
+Comprehensions
+Decision Making
+Switch
+Loops
+Functions
+Built-in functions
+range(), zip(), eval(), exec(), repr()
+Function arguments
+Recursion
+Lambda expressions
+Object-Oriented
+Classes and Objects
+Methods
+Inheritance and types
+Operator overloading
+property class
+Shallow and deep copying
+Modules
+os, pprint, sys, array, itertools
+Counter, defaultdict, OrderedDict, namedtuple
+datetime, calendar
+Packages
+Working with files
+Read/Write
+Copying, Renaming, Zipping
+Iterators
+Generators
+Closure
+Decorators
+Assert statements
+Errors and Exceptions
+Exception handling
+XML processing, sending email, networking
+GUI programming
+Multithreading and multiprocessing
+Regular Expressions
+Accessing database
+Logging, unit testing
+Virtual Environments
+Serialization
+Libraries
+scipy
+numpy
+Image processing
+Matplotlib
+pandas
+Frameworks
+Django
+Flask
+
+Flavors of Python
+
+Python has more than one implementation. We use CPython, others are:
+
+CPython- Written in C
+Jython- Written in Java
+IronPython- Implemented in C#
+Brython- Browser Python
+RubyPython- Bridge between Python and Ruby interpreters
+PyPY- Implemented in Python
+MicroPython- Runs on a microcontroller
+
+File Extensions
+
+Python files may have one of the following extensions:
+
+.py
+.pyc
+.pyd
+.pyo
+.pyw
+.pyz
+
+
+
+
 
 ## Welcome to GitHub Pages
 
