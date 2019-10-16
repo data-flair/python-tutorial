@@ -75,15 +75,15 @@ Python Pocket Reference - Mark Lutz
 
 Let’s first see what Python looks like.
 
- - Functions - Collections of statements grouped under a name. May or may not return a value.
- - Classes and Objects - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
- - Modules - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
- - Packages - They are collections of related modules. You can also create your own packages.
- - Lists - These are collections of values in the CSV format. Lists are mutable objects.
- - Tuples - These are like lists, but immutable.
- - Dictionaries - These are collections of key-value pairs defined using curly braces.
- - Sets - They can’t have duplicates, and are mutable.
- - Comments and Docstrings - Comments are for the developer, explain code and are declared with a hash (#) sign. Docstrings are documentation strings that explain code. There are no multiline comments.
+ - **Functions** - Collections of statements grouped under a name. May or may not return a value.
+ - **Classes and Objects** - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
+ - **Modules** - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
+ - **Packages** - They are collections of related modules. You can also create your own packages.
+ - **Lists** - These are collections of values in the CSV format. Lists are mutable objects.
+ - **Tuples** - These are like lists, but immutable.
+ - **Dictionaries** - These are collections of key-value pairs defined using curly braces.
+ - **Sets** - They can’t have duplicates, and are mutable.
+ - **Comments and Docstrings** - Comments are for the developer, explain code and are declared with a hash (#) sign. Docstrings are documentation strings that explain code. There are no multiline comments.
 
 ### b. Python Features
 
