@@ -108,34 +108,34 @@ Let’s talk about the important concepts you should learn in Python.
 
  - Syntax
    - Statements, Indentation, and Comments
-  - Variables and Data Types
- - - - Numbers
-Strings
-Booleans
-Variable Scope
-Identifiers
-Namespace and Scope
-Operators
-Bitwise
-Comparison
-Precedence
-Slicing
-Ternary
-Data Structures
-Lists
-Tuples
-Dictionaries
-Sets
-Comprehensions
-Decision Making
-Switch
-Loops
-Functions
-Built-in functions
-range(), zip(), eval(), exec(), repr()
-Function arguments
-Recursion
-Lambda expressions
+   - Variables and Data Types
+     - Numbers
+     - Strings
+     - Booleans
+   - Variable Scope
+   - Identifiers
+   - Namespace and Scope
+   - Operators
+     - Bitwise
+     - Comparison
+     - Precedence
+     - Slicing
+     - Ternary
+ - Data Structures
+   - Lists
+   - Tuples
+   - Dictionaries
+   - Sets
+   - Comprehensions
+ - Decision Making
+   - Switch
+ - Loops
+ - Functions
+   - Built-in functions
+   - range(), zip(), eval(), exec(), repr()
+   - Function arguments
+   - Recursion
+   - Lambda expressions
 Object-Oriented
 Classes and Objects
 Methods
