@@ -5,7 +5,7 @@ Python has quickly become a favorite- it’s being taught in universities, and a
 
 Python is a general-purpose programming language that is interpreted, object-oriented and dynamically-typed. Guido Van Rossum, its BDFL (Benevolent Dictator For Life), named it over the British comedy group Monty Python. The implementation we widely use is CPython (written in C). Python has powerful frameworks and libraries. You can install these libraries with pip, and find them in PyPI (Python Package Index).
 
-[240+ Free tutorials to master Python](https://data-flair.training/blogs/python-tutorials-home/)
+**[240+ Free tutorials to master Python](https://data-flair.training/blogs/python-tutorials-home/)**
 
 ## 2. Why Learn Python?
 **There is more than one reason why you should learn this language:**
