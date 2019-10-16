@@ -48,25 +48,26 @@ Python is definitely easy to learn, that is why it is taught to university stude
 ## 5. How to Learn?
 Want to learn Python and build a career in it? We have laid down steps to help you:
 
- - Follow online tutorials
+ - Fast-pace your learning and take a lead from crowd with [DataFlair's Python Course](https://data-flair.training/python-course/)
+ - [270+ free tutorials to learn python from scratch](https://data-flair.training/blogs/python-tutorials-home/)
  - Code while you learn
  - Read books
  - Watch videos/ Do an online Python course
  - Work with machine learning and other libraries
  - Build projects
- - Read interview questions
+ - Read [interview questions](https://data-flair.training/blogs/python-interview-questions/)
  - Contribute to open-source projects
 
 ### Top Python Books
 These are some books you should read to improve your Python skills:
 
-Learning Python - Mark Lutz
-Python Cookbook - David Beazley and Brian K. Jones
-Python for Data Analysis - Wes McKinney
-Python Essential Reference - David Beazley
-Python in a Nutshell - Alex Martelli
-Violent Python - TJ O’Connor
-Python Pocket Reference - Mark Lutz
+ - Learning Python - Mark Lutz
+ - Python Cookbook - David Beazley and Brian K. Jones
+ - Python for Data Analysis - Wes McKinney
+ - Python Essential Reference - David Beazley
+ - Python in a Nutshell - Alex Martelli
+ - Violent Python - TJ O’Connor
+ - Python Pocket Reference - Mark Lutz
 
 
 ## 6. Basics of Python for beginners
