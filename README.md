@@ -13,7 +13,7 @@ Python is a general-purpose programming language that is interpreted, object-ori
  - It is great for both startups as well as big organizations. It is also beginner-friendly.
  - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used languages on GitHub, and the largest Meetup communities.
  - It has great career opportunities. Python jobs pay well and provide stability.
- - Python has many powerful frameworks like Django and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
+ - Python has many powerful frameworks like [Django](https://data-flair.training/blogs/django-tutorials-home/) and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
  - It is also great for machine learning, data science, and artificial intelligence. It has libraries for tasks involved in these domains.
  - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
  - Python’s readability and ease-of-use make developers more productive.
@@ -23,19 +23,19 @@ Python is a general-purpose programming language that is interpreted, object-ori
 ## 3. What is it used for?
 Python is a general-purpose language, but is used almost everywhere:
  - Web development
-- Game development
-- Machine Learning
-- Data Science (preferred)
-- Artificial Intelligence (ex- robotics)
-- Scripting
-- Computer Vision
-- Scraping
-- Natural Language Processing
-- Data analytics
-- Scientific and Numeric computing
-- Software Application Development
-- Desktop GUI
-- Network Programming
+ - Game development
+ - [Machine Learning](https://data-flair.training/blogs/machine-learning-tutorials-home/)
+ - [Data Science](https://data-flair.training/blogs/data-science-tutorials-home/)
+ - [Artificial Intelligence](https://data-flair.training/blogs/ai-tutorials-home/)
+ - Scripting
+ - Computer Vision
+ - Scraping
+ - [Natural Language Processing](https://data-flair.training/blogs/nlp-tutorial-natural-language-processing/)
+ - Data analytics
+ - Scientific and Numeric computing
+ - Software Application Development
+ - Desktop GUI
+ - Network Programming
 
 ## 4. Is Python Easy to Learn?
 Python is definitely easy to learn, that is why it is taught to university students- to create interest in programming. Python is:
