@@ -102,15 +102,14 @@ Let’s discuss some features of Python now.
  - GUI programming
  - Dynamically typed
 
-
-Concepts to Learn
+### c. Concepts to Learn
 
 Let’s talk about the important concepts you should learn in Python.
 
-Syntax
-Statements, Indentation, and Comments
-Variables and Data Types
-Numbers
+ - Syntax
+  -- Statements, Indentation, and Comments
+ -- Variables and Data Types
+ --- Numbers
 Strings
 Booleans
 Variable Scope
