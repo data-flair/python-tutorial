@@ -136,47 +136,47 @@ Let’s talk about the important concepts you should learn in Python.
    - Function arguments
    - Recursion
    - Lambda expressions
-Object-Oriented
-Classes and Objects
-Methods
-Inheritance and types
-Operator overloading
-property class
-Shallow and deep copying
-Modules
-os, pprint, sys, array, itertools
-Counter, defaultdict, OrderedDict, namedtuple
-datetime, calendar
-Packages
-Working with files
-Read/Write
-Copying, Renaming, Zipping
-Iterators
-Generators
-Closure
-Decorators
-Assert statements
-Errors and Exceptions
-Exception handling
-XML processing, sending email, networking
-GUI programming
-Multithreading and multiprocessing
-Regular Expressions
-Accessing database
-Logging, unit testing
-Virtual Environments
-Serialization
-Libraries
-scipy
-numpy
-Image processing
-Matplotlib
-pandas
-Frameworks
-Django
-Flask
+ - Object-Oriented
+   - Classes and Objects
+   - Methods
+   - Inheritance and types
+   - Operator overloading
+   - property class
+   - Shallow and deep copying
+ - Modules
+   - os, pprint, sys, array, itertools
+   - Counter, defaultdict, OrderedDict, namedtuple
+   - datetime, calendar
+ - Packages
+ - Working with files
+   - Read/Write
+   - Copying, Renaming, Zipping
+ - Iterators
+   - Generators
+   - Closure
+ - Decorators
+ - Assert statements
+ - Errors and Exceptions
+ - Exception handling
+ - XML processing, sending email, networking
+ - GUI programming
+ - Multithreading and multiprocessing
+ - Regular Expressions
+ - Accessing database
+ - Logging, unit testing
+ - Virtual Environments
+ - Serialization
+ - Libraries
+   - scipy
+   - numpy
+   - Image processing
+   - Matplotlib
+   - pandas
+ - Frameworks
+   - Django
+   - Flask
 
-Flavors of Python
+### d. Flavors of Python
 
 Python has more than one implementation. We use CPython, others are:
 
