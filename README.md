@@ -18,7 +18,56 @@ Python is a general-purpose programming language that is interpreted, object-ori
  - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
  - Python’s readability and ease-of-use make developers more productive.
 
-Still skeptical?? refer: [Reasons why you must learn python](https://data-flair.training/blogs/why-should-i-learn-python/)
+[Top 7 reasons why you must learn python](https://data-flair.training/blogs/why-should-i-learn-python/)
+
+## 3. What is it used for?
+Python is a general-purpose language, but is used almost everywhere:
+ - Web development
+- Game development
+- Machine Learning
+- Data Science (preferred)
+- Artificial Intelligence (ex- robotics)
+- Scripting
+- Computer Vision
+- Scraping
+- Natural Language Processing
+- Data analytics
+- Scientific and Numeric computing
+- Software Application Development
+- Desktop GUI
+- Network Programming
+
+## 4. Is Python Easy to Learn?
+Python is definitely easy to learn, that is why it is taught to university students- to create interest in programming. Python is:
+
+ - Easy to learn- it has a smooth learning curve
+ - Easy to read- it is easy to read and understand someone else’s code
+ - Easy to write- Python’s syntax is like English
+ - Easy to debug- it gives you full tracebacks
+ 
+## 5. How to Learn?
+Want to learn Python and build a career in it? We have laid down steps to help you:
+
+ - Follow online tutorials
+ - Code while you learn
+ - Read books
+ - Watch videos/ Do an online Python course
+ - Work with machine learning and other libraries
+ - Build projects
+ - Read interview questions
+ - Contribute to open-source projects
+
+### Top Python Books
+These are some books you should read to improve your Python skills:
+
+Learning Python - Mark Lutz
+Python Cookbook - David Beazley and Brian K. Jones
+Python for Data Analysis - Wes McKinney
+Python Essential Reference - David Beazley
+Python in a Nutshell - Alex Martelli
+Violent Python - TJ O’Connor
+Python Pocket Reference - Mark Lutz
+
 
 
 ## Welcome to GitHub Pages
