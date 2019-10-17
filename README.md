@@ -103,22 +103,22 @@ Let’s discuss some features of Python now.
  - GUI programming
  - Dynamically typed
  
-**Fascinated with Python features?? [Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)**
+**[Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)**
 
 ### c. Concepts to learn Python
 
 Let’s talk about the important concepts you should learn in Python.
 
- - Syntax
-   - Statements, Indentation, and Comments
-   - Variables and Data Types
-     - Numbers
-     - Strings
+ - [Syntax](https://data-flair.training/blogs/python-syntax-semantics/)
+   - [Statements, Indentation, and Comments](https://data-flair.training/blogs/python-comment/)
+   - [Variables and Data Types](https://data-flair.training/blogs/python-variables-and-data-types/)
+     - [Numbers](https://data-flair.training/blogs/python-number-types-conversion/)
+     - [Strings](https://data-flair.training/blogs/python-string/)
      - Booleans
-   - Variable Scope
-   - Identifiers
-   - Namespace and Scope
-   - Operators
+   - [Variable Scope](https://data-flair.training/blogs/python-variable-scope/)
+   - [Identifiers](https://data-flair.training/blogs/identifiers-in-python/)
+   - [Namespace and Scope](https://data-flair.training/blogs/python-namespace-and-variable-scope/)
+   - [Operators](https://data-flair.training/blogs/python-operator/)
      - Bitwise
      - Comparison
      - Precedence
