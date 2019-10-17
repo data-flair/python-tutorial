@@ -1,11 +1,12 @@
 # Python Tutorial
+This Python tutorial for beginners provides complete overview of Python. The Python tutorial also covers Python features, Python syntax, python applications, python projects. You will also get 270+ python tutorials to learn python from scratch, go from zero to hero with this python tutorial
 
 ## 1. What is Python?
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
 
 Python is a general-purpose programming language that is interpreted, object-oriented and dynamically-typed. Guido Van Rossum, its BDFL (Benevolent Dictator For Life), named it over the British comedy group Monty Python. The implementation we widely use is CPython (written in C). Python has powerful frameworks and libraries. You can install these libraries with pip, and find them in PyPI (Python Package Index).
 
-**[240+ Free tutorials to master Python](https://data-flair.training/blogs/python-tutorials-home/)**
+Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to master Python](https://data-flair.training/blogs/python-tutorials-home/)**
 
 ## 2. Why Learn Python?
 **There is more than one reason why you should learn this language:**
@@ -38,14 +39,14 @@ Python is a general-purpose language, but is used almost everywhere:
  - Network Programming
 
 ## 4. Is Python Easy to Learn?
-Python is definitely easy to learn, that is why it is taught to university students- to create interest in programming. Python is:
+Python is definitely easy to learn, that is why python is taught to university students- to create interest in programming. You can gain expertise in python with this free python tutorial. **Python is:**
 
  - Easy to learn- it has a smooth learning curve
  - Easy to read- it is easy to read and understand someone else’s code
  - Easy to write- Python’s syntax is like English
  - Easy to debug- it gives you full tracebacks
  
-## 5. How to Learn?
+## 5. How to Learn Python?
 Want to learn Python and build a career in it? We have laid down steps to help you:
 
  - Fast-pace your learning and take a lead from crowd with **[DataFlair's Python Course](https://data-flair.training/python-course/)**
@@ -72,7 +73,7 @@ These are some books you should read to improve your Python skills:
 
 ## 6. Basics of Python for beginners
 
-### a. Basics Constructs
+### a. Python Basic Constructs
 
 Let’s first see what Python looks like.
 
@@ -103,7 +104,7 @@ Let’s discuss some features of Python now.
  - GUI programming
  - Dynamically typed
  
-**[Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)**
+[Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)
 
 ### c. Concepts to learn Python
 
@@ -202,13 +203,13 @@ Python files may have one of the following extensions:
  - .pyw
  - .pyz
 
-## 7. Syntax
+## 7. Python Syntax
 
 To learn about variables, operators, and other topics, refer to the links above. Here, we will talk about the **[syntax of Python code](https://data-flair.training/blogs/python-syntax-semantics/)**.
 
- - Line Structure - Programs consist of logical lines. Each line has a NEWLINE token at the end. Blank lines are ignored.
+ - Line Structure - Python Programs consist of logical lines. Each line has a NEWLINE token at the end. Blank lines are ignored.
  - Multiline statements - There are no semicolons or braces in Python (you can use semicolons if you want, but they are not mandatory)
-   - Backward slash - To distribute a statement across multiple lines.
+   - Backward slash - To distribute a statement across multiple lines in Python.
    - Triple quotes - Put strings in triple quotes to span them across multiple lines.
  - Comments - They explain code and are ignored by the interpreter. Declared by hash (#).
  - Docstrings - Documentation strings that explain code. Retained at runtime for inspection.
@@ -222,17 +223,17 @@ To learn about variables, operators, and other topics, refer to the links above.
 
 ## 8. Popular IDEs
 
-While you’re learning Python, you will use an IDE (Integrated Development Environment) to run the code. You can choose one or more of the following. Here, you can write, edit, test and debug code. It has build automation, code linting, testing, and debugging. This speeds up your work.
+While you learn Python, you will use an IDE (Integrated Development Environment) to run the python code. You can choose one or more of the following. Here, you can write, edit, test and debug code. It has build automation, code linting, testing, and debugging. This speeds up your work.
 
 ### a. IDLE
 
 Pricing: Free
-IDLE comes with Python. It is lightweight and simple.
+[IDLE](https://docs.python.org/3/library/idle.html) comes with Python. It is lightweight and simple.
 
 ### b. Sublime Text 3
 
 Pricing: Freemium
-Sublime Text 3 is a popular code editor and also supports other languages. It is fast, customizable, and has a large community. It has packages available for debugging, auto-completion, and code linting, and for Django, Flask, and scientific development.
+Sublime Text 3 is a popular code editor and also supports other languages. It is fast, customizable, and has a large community. It has packages available for debugging, auto-completion, and code linting,etc. for Python, Django, Flask, and scientific development.
 
 ### c. Atom
 
@@ -242,17 +243,17 @@ Atom is an editor by GitHub and is open-source. It is customizable and has packa
 ### d. Thonny
 
 Pricing: Free
-Thonny is an IDE you can install. It has a very simple UI for beginners, but also has many useful features like syntax error highlighting, debugging, code completion, and step-through expression evaluation.
+[Thonny](https://thonny.org/) is an IDE you can install. It has a very simple UI for beginners, but also has many useful features like syntax error highlighting, debugging, code completion, and step-through expression evaluation.
 
 ### e. PyCharm
 
 Pricing: Freemium
-PyCharm is not for beginners. It is created by JetBrains and has two versions- Community and Professional. It has features like code completion, code inspections, error-highlighting and fixes, debugging, version control system and code refactoring. However, PyCharm is resource-intensive.
+PyCharm is not for beginners. It is created by JetBrains and has two versions- Community and Professional. It has features like code completion, code inspections, error-highlighting and fixes, debugging, version control system and code refactoring. However, [PyCharm](https://www.jetbrains.com/pycharm/) is resource-intensive.
 
 ### f. Visual Studio Code
 
 Pricing: Free
-VS Code is a free and open-source IDE by Microsoft. It has features like intelligent code completion, linting for potential errors, debugging and unit testing, and you can add extensions. It is also lightweight.
+[VS Code](https://code.visualstudio.com/) is a free and open-source IDE by Microsoft. It has features like intelligent code completion, linting for potential errors, debugging and unit testing, and you can add extensions. It is also lightweight.
 
 ### g. Vim
 
@@ -272,7 +273,7 @@ This is an online compiler- you don't need to install Python and set up an envir
 ### j. JupyterLab
 
 Pricing: Free
-JupyterLab is the next-gen UI for Project Jupyter. It has all the building blocks of the Jupyter Notebook, like notebooks, terminal, text editor, file browser, and rich output. The UI is flexible.
+JupyterLab is the next-gen UI for [Project Jupyter](https://jupyterlab.readthedocs.io/en/stable/). It has all the building blocks of the Jupyter Notebook, like notebooks, terminal, text editor, file browser, and rich output. The UI is flexible.
 
 ### k. Eclipse + PyDev
 
@@ -281,7 +282,7 @@ PyDev is a Python IDE for Eclipse. Using the PyDev plugin with Eclipse, we can d
 
 ## 9. How Long Will it Take to Learn Python?
 
-Python is an easy language to learn and has a smooth learning curve. Learning the basics will not take much time. But you will need to practice as you learn. The more you practice, the better you are at it. You will need to build projects as well. Once you have followed the steps mentioned above, you can say you know Python. So how long it will take depends on you.
+Python is an easy language to learn and has a smooth learning curve. Learning the basics will not take much time, you can learn python basics with this python tutorial. You will need to practice as you learn. The more you practice, the better you are at it. You will need to build projects as well. Once you have followed the steps mentioned above, you can say you know Python. So how long it will take depends on you.
 
 ## 10. Which Libraries Should I Learn?
 
@@ -313,7 +314,7 @@ Python has over 198,495 projects in the PyPI. Which of those packages (and the b
 
 ## 11. Which Python Projects Should I Develop?
 
-Building a project will strengthen your basics and help you figure out what you don’t know.
+Building a [python project](https://sites.google.com/view/learn-python-data-science/home) will strengthen your basics and help you figure out what you don’t know.
 
  - Start with some basic projects like Hangman and Tic-Tac-Toe. Build an alarm clock. This can be console-based.
  - Move on to intermediate projects like a todo-list with Django. Use frameworks and build GUIs too.
@@ -425,7 +426,7 @@ Facebook extensively uses Python. The libraries and frameworks reduce the code-l
 Google has been using Python since the beginning. They decided to implement Python for ease of maintenance and faster delivery than C++. They also recoded some Perl or Bash scripts into Python. Python is the official Google server-side language at Google. Peter Norvig, and American computer scientist, said "Python has been an important part of Google since the beginning and remains so as the system grows and evolves. Today, dozens of Google engineers use Python, and we're looking for more people with skills in this language."
 
 
-This was the A-Z of Python. We tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn, a short tutorials, some libraries, names of projects, interview questions, its future, Python for Machine Learning, companies and some case studies.
+This was the A-Z of Python. In this python tutorial we tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn python, a short tutorials, some libraries, python projects, python interview questions, its future, Python for Machine Learning, companies and some case studies.
 
 **Are you looking to become a Python expert?**
 **[Join DataFlair's Certified Python Course](https://data-flair.training/python-course/)** & become industry ready
