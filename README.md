@@ -311,36 +311,36 @@ Python has over 198,495 projects in the PyPI. Which of those packages (and the b
  - [array](https://data-flair.training/blogs/python-array-module/)
  - [itertools](https://data-flair.training/blogs/python-itertools/)
 
-## 11. What Projects Should I Build?
+## 11. Which Python Projects Should I Develop?
 
 Building a project will strengthen your basics and help you figure out what you don’t know.
 
  - Start with some basic projects like Hangman and Tic-Tac-Toe. Build an alarm clock. This can be console-based.
  - Move on to intermediate projects like a todo-list with Django. Use frameworks and build GUIs too.
- - Now, it’s time to work on some advanced projects like:
-   - Parkinson’s Disease Detection
-   - Speech Emotion Recognition
-   - Breast Cancer Classification
-   - Fake News Detection
-   - Gender and Age Detection
-   - Driver Drowsiness Detection
+ - Now, it’s time to work on some advanced Python projects like:
+   - [Parkinson’s Disease Detection with XGBoost](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
+   - [Speech Emotion Recognition with librosa](https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
+   - [Breast Cancer Classification with Deep Learning](https://data-flair.training/blogs/project-in-python-breast-cancer-classification/)
+   - [Fake News Detection with classfication](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
+   - [Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)
+   - [Driver Drowsiness Detection with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
 
 You can also build a project to solve a real problem you face or faced earlier.
 
 ## 12. Should I Go for the Python Certification?
 
-There is no official certified exam for Python. DataFlair offers an excellent certification program for Python. This has more than 20 hours of video-based sessions, multiples practicals, and 5 exciting projects to build- with complete source code!
+There is no official certified exam for Python. **[DataFlair offers an excellent certification program for Python](https://data-flair.training/python-course/)**. This has more than 20 hours of video-based sessions, tons of practicals, and 5 exciting projects to build- with complete source code!
 
-## 13. Solve Interview Questions
+## 13. Python Interview Questions
 
-You are now ready to answer some interview questions at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
+You are now ready to answer crack Python interview at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
 
- - Top 150+ Interview Questions for Freshers
- - Python Interview Questions for Intermediate
- - Python Interview Questions - Advanced
+ - **[Top 150+ Interview Questions for Freshers](https://data-flair.training/blogs/top-python-interview-questions-answer/)**
+ - **[Python Interview Questions for Intermediate](https://data-flair.training/blogs/python-interview-questions/)**
+ - **[Python Interview Questions - Advanced](https://data-flair.training/blogs/python-programming-interview-questions/)**
 
 ## 14. Python Job Trends
-Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a good future with stable jobs. Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
+Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a [good future with stable jobs](https://data-flair.training/blogs/python-future/). Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
 
  - Software Engineer
  - Senior Software Engineer
