@@ -58,6 +58,7 @@ Want to learn Python and build a career in it? We have laid down steps to help y
  - Build projects
  - Read [interview questions](https://data-flair.training/blogs/python-interview-questions/)
  - Contribute to open-source projects
+ - **[Python cheat sheet](https://docs.google.com/spreadsheets/d/1eNBLcKqCVN9zZQvfGUmm5bAzsETqB_ugVOlUtmvJGYU/edit#gid=0)** containing 100s of free tutorials, practicals, projects, (everything you need to master python)
 
 ### Top Python Books
 These are some books you should read to improve your Python skills:
