@@ -119,60 +119,60 @@ Let’s talk about the important concepts you should learn in Python.
    - [Identifiers](https://data-flair.training/blogs/identifiers-in-python/)
    - [Namespace and Scope](https://data-flair.training/blogs/python-namespace-and-variable-scope/)
    - [Operators](https://data-flair.training/blogs/python-operator/)
-     - Bitwise
-     - Comparison
-     - Precedence
+     - [Bitwise](https://data-flair.training/blogs/python-bitwise-operators/)
+     - [Comparison](https://data-flair.training/blogs/python-comparison-operators/)
+     - [Precedence](https://data-flair.training/blogs/python-operator-precedence/)
      - Slicing
-     - Ternary
- - Data Structures
+     - [Ternary](https://data-flair.training/blogs/python-ternary-operator/)
+ - **[Data Structures](https://data-flair.training/blogs/python-data-structures-tutorial/)**
    - Lists
    - Tuples
    - Dictionaries
    - Sets
    - Comprehensions
- - Decision Making
+ - [Decision Making](https://data-flair.training/blogs/python-decision-making-expressions/)
    - Switch
- - Loops
+ - [Loops](https://data-flair.training/blogs/python-loops/)
  - Functions
-   - Built-in functions
-   - range(), zip(), eval(), exec(), repr()
-   - Function arguments
-   - Recursion
-   - Lambda expressions
+   - [Built-in functions](https://data-flair.training/blogs/python-built-in-functions/)
+   - [range()](https://data-flair.training/blogs/python-range-function/), [zip()](https://data-flair.training/blogs/python-zip-function/), [eval()](https://data-flair.training/blogs/python-eval-function/), [exec()](https://data-flair.training/blogs/python-exec-function/), repr()
+   - [Function arguments](https://data-flair.training/blogs/python-function-arguments/)
+   - [Recursion](https://data-flair.training/blogs/recursion-in-python/)
+   - [Lambda expressions](https://data-flair.training/blogs/python-lambda-expressions/)
  - Object-Oriented
    - Classes and Objects
-   - Methods
-   - Inheritance and types
-   - Operator overloading
+   - [Methods](https://data-flair.training/blogs/python-method/)
+   - [Inheritance and types](https://data-flair.training/blogs/python-inheritance/)
+   - [Operator overloading](https://data-flair.training/blogs/python-operator-overloading/)
    - property class
-   - Shallow and deep copying
- - Modules
+   - [Shallow and deep copying](https://data-flair.training/blogs/copy-in-python-deep-shallow-copy/)
+ - [Modules](https://data-flair.training/blogs/python-modules/)
    - os, pprint, sys, array, itertools
-   - Counter, defaultdict, OrderedDict, namedtuple
+   - [Counter, defaultdict, OrderedDict, namedtuple](https://data-flair.training/blogs/python-collections-module/)
    - datetime, calendar
- - Packages
- - Working with files
-   - Read/Write
+ - [Packages](https://data-flair.training/blogs/python-packages/)
+ - [Working with files](https://data-flair.training/blogs/python-file/)
+   - [Read/Write](https://data-flair.training/blogs/file-handling-in-python/)
    - Copying, Renaming, Zipping
- - Iterators
-   - Generators
-   - Closure
- - Decorators
- - Assert statements
- - Errors and Exceptions
- - Exception handling
- - XML processing, sending email, networking
- - GUI programming
- - Multithreading and multiprocessing
- - Regular Expressions
- - Accessing database
- - Logging, unit testing
+ - [Iterators](https://data-flair.training/blogs/python-iterator/)
+   - [Generators](https://data-flair.training/blogs/python-generator/)
+   - [Closure](https://data-flair.training/blogs/python-closure/)
+ - [Decorators](https://data-flair.training/blogs/python-decorator/)
+ - [Assert statements](https://data-flair.training/blogs/python-assert/)
+ - [Errors and Exceptions](https://data-flair.training/blogs/python-error-exception/)
+ - [Exception handling](https://data-flair.training/blogs/python-exception-handling/)
+ - [XML processing](https://data-flair.training/blogs/xml-processing-python-3/), sending email, networking
+ - GUI programming in Python
+ - [Python Multithreading and multiprocessing](https://data-flair.training/blogs/python-multithreading/)
+ - [Regular Expressions in Python](https://data-flair.training/blogs/python-regex-tutorial/)
+ - [Accessing database with Python](https://data-flair.training/blogs/python-database-access/)
+ - Logging, [unit testing](https://data-flair.training/blogs/python-unittest/)
  - Virtual Environments
- - Serialization
- - Libraries
-   - scipy
-   - numpy
-   - Image processing
+ - [Serialization](https://data-flair.training/blogs/python-pickle/)
+ - [Libraries](https://data-flair.training/blogs/python-library/)
+   - [scipy](https://data-flair.training/blogs/scipy-tutorial/)
+   - [numpy](https://data-flair.training/blogs/python-numpy-tutorial/)
+   - [Image processing](https://data-flair.training/blogs/image-processing-with-scipy-and-numpy/)
    - Matplotlib
    - pandas
  - Frameworks
