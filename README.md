@@ -24,8 +24,8 @@ Python is a general-purpose programming language that is interpreted, object-ori
 Python is a general-purpose language, but is used almost everywhere:
  - Web development
  - Game development
- - [Machine Learning](https://data-flair.training/blogs/machine-learning-tutorials-home/)
- - [Data Science](https://data-flair.training/blogs/data-science-tutorials-home/)
+ - **[Machine Learning](https://data-flair.training/blogs/machine-learning-tutorials-home/)**
+ - **[Data Science](https://data-flair.training/blogs/data-science-tutorials-home/)**
  - [Artificial Intelligence](https://data-flair.training/blogs/ai-tutorials-home/)
  - Scripting
  - Computer Vision
@@ -48,7 +48,7 @@ Python is definitely easy to learn, that is why it is taught to university stude
 ## 5. How to Learn?
 Want to learn Python and build a career in it? We have laid down steps to help you:
 
- - Fast-pace your learning and take a lead from crowd with [DataFlair's Python Course](https://data-flair.training/python-course/)
+ - Fast-pace your learning and take a lead from crowd with **[DataFlair's Python Course](https://data-flair.training/python-course/)**
  - [270+ free tutorials to learn python from scratch](https://data-flair.training/blogs/python-tutorials-home/)
  - Code while you learn
  - Read books
@@ -68,7 +68,7 @@ These are some books you should read to improve your Python skills:
  - Python in a Nutshell - Alex Martelli
  - Violent Python - TJ O’Connor
  - Python Pocket Reference - Mark Lutz
-
+**[Top 10 Python Books for Beginners & Experienced](https://data-flair.training/blogs/best-python-book/)**
 
 ## 6. Basics of Python for beginners
 
@@ -76,14 +76,14 @@ These are some books you should read to improve your Python skills:
 
 Let’s first see what Python looks like.
 
- - **Functions** - Collections of statements grouped under a name. May or may not return a value.
- - **Classes and Objects** - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
- - **Modules** - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
- - **Packages** - They are collections of related modules. You can also create your own packages.
- - **Lists** - These are collections of values in the CSV format. Lists are mutable objects.
- - **Tuples** - These are like lists, but immutable.
- - **Dictionaries** - These are collections of key-value pairs defined using curly braces.
- - **Sets** - They can’t have duplicates, and are mutable.
+ - **[Functions](https://data-flair.training/blogs/python-function/)** - Collections of statements grouped under a name. May or may not return a value.
+ - **[Classes](https://data-flair.training/blogs/python-class/) and Objects** - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
+ - **[Modules](https://data-flair.training/blogs/python-modules/)** - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
+ - **[Packages](https://data-flair.training/blogs/python-packages/)** - They are collections of related modules. You can also create your own packages.
+ - **[Lists](https://data-flair.training/blogs/python-lists-examples/)** - These are collections of values in the CSV format. Lists are mutable objects.
+ - **[Tuples](https://data-flair.training/blogs/python-tuples-syntax-examples/)** - These are like lists, but immutable.
+ - **[Dictionaries](https://data-flair.training/blogs/python-dictionary/)** - These are collections of key-value pairs defined using curly braces.
+ - **[Sets](https://data-flair.training/blogs/python-set-and-booleans-with-examples/)** - They can’t have duplicates, and are mutable.
  - **Comments and Docstrings** - Comments are for the developer, explain code and are declared with a hash (#) sign. Docstrings are documentation strings that explain code. There are no multiline comments.
 
 ### b. Python Features
@@ -102,6 +102,8 @@ Let’s discuss some features of Python now.
  - Large standard library
  - GUI programming
  - Dynamically typed
+ 
+**Fascinated with Python features?? [Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)**
 
 ### c. Concepts to learn Python
 
