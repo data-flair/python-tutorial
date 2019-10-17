@@ -1,5 +1,5 @@
 # Python Tutorial
-This Python tutorial for beginners provides complete overview of Python. The Python tutorial also covers Python features, Python syntax, python applications, python projects. You will also get 270+ python tutorials to learn python from scratch, go from zero to hero with this python tutorial
+This Python tutorial for beginners provides complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn python from scratch. Go from zero to hero with this python tutorial
 
 ## 1. What is Python?
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
