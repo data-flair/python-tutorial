@@ -428,4 +428,4 @@ Google has been using Python since the beginning. They decided to implement Pyth
 This was the A-Z of Python. We tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn, a short tutorials, some libraries, names of projects, interview questions, its future, Python for Machine Learning, companies and some case studies.
 
 **Are you looking to become a Python expert?**
-**[Join DataFlair's Certified Python Course](https://data-flair.training/python-course/) & become industry ready
+**[Join DataFlair's Certified Python Course](https://data-flair.training/python-course/)** & become industry ready
