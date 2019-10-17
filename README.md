@@ -173,11 +173,11 @@ Let’s talk about the important concepts you should learn in Python.
    - [scipy](https://data-flair.training/blogs/scipy-tutorial/)
    - [numpy](https://data-flair.training/blogs/python-numpy-tutorial/)
    - [Image processing](https://data-flair.training/blogs/image-processing-with-scipy-and-numpy/)
-   - Matplotlib
-   - pandas
+   - [Matplotlib](https://data-flair.training/blogs/python-matplotlib-tutorial/)
+   - **[pandas](https://data-flair.training/blogs/pandas-tutorials-home/)**
  - Frameworks
-   - Django
-   - Flask
+   - [Django](https://data-flair.training/blogs/django-tutorials-home/)
+   - [Flask](https://data-flair.training/blogs/python-flask-tutorial/)
 
 ### d. Flavors of Python
 
@@ -204,7 +204,7 @@ Python files may have one of the following extensions:
 
 ## 7. Syntax
 
-To learn about variables, operators, and other topics, refer to the links above. Here, we will talk about the syntax of Python code.
+To learn about variables, operators, and other topics, refer to the links above. Here, we will talk about the **[syntax of Python code](https://data-flair.training/blogs/python-syntax-semantics/)**.
 
  - Line Structure - Programs consist of logical lines. Each line has a NEWLINE token at the end. Blank lines are ignored.
  - Multiline statements - There are no semicolons or braces in Python (you can use semicolons if you want, but they are not mandatory)
@@ -218,7 +218,7 @@ To learn about variables, operators, and other topics, refer to the links above.
  - Identifiers - These are names of elements, and are case-sensitive. You need to follow some rules when naming identifiers.
  - Variables - They hold values. Python follows duck-typing and is dynamically-typed. You don’t need to declare the type of variable, that is determined by the interpreter at runtime.
  - String formatters - For this, you can use the % operator, the format() method, or f-strings.
- - Python vs Java vs C++ - Curly braces are mandatory in Java and C++, but Python uses whitespace indentation to delimit code. Semicolons are optional in Python, but can cause errors in C++ and Java. Python is dynamically-typed, Java and C++ are statically-typed. Java is faster than Python.
+ - **[Python vs Java vs C++](https://data-flair.training/blogs/python-vs-java/)** - Curly braces are mandatory in Java and C++, but Python uses whitespace indentation to delimit code. Semicolons are optional in Python, but can cause errors in C++ and Java. Python is dynamically-typed, Java and C++ are statically-typed. Java is faster than Python.
 
 ## 8. Popular IDEs
 
@@ -287,29 +287,29 @@ Python is an easy language to learn and has a smooth learning curve. Learning th
 
 Python has over 198,495 projects in the PyPI. Which of those packages (and the built-in ones) should you learn? Here are a few names:
 
- - scipy
- - numpy
+ - [scipy](https://data-flair.training/blogs/scipy-tutorial/)
+ - [numpy](https://data-flair.training/blogs/python-numpy-tutorial/)
  - matplotlib
  - urllib
  - requests
  - smtplib
- - os
+ - [os](https://data-flair.training/blogs/python-os-module/)
  - shutil
  - tkinter
- - PyQt
+ - [PyQt](https://data-flair.training/blogs/python-pyqt5-tutorial/)
  - threading
- - subprocess
+ - [subprocess](https://data-flair.training/blogs/python-subprocess-module/)
  - PyMySQL
- - unittest
+ - [unittest](https://data-flair.training/blogs/python-unittest/)
  - pickle
- - logging
+ - [logging](https://data-flair.training/blogs/python-logging/)
  - virtualenv
  - pandas
  - scikit-learn
  - datetime, calendar, time
- - collections
- - array
- - itertools
+ - [collections](https://data-flair.training/blogs/python-sequences-and-collections/)
+ - [array](https://data-flair.training/blogs/python-array-module/)
+ - [itertools](https://data-flair.training/blogs/python-itertools/)
 
 ## 11. What Projects Should I Build?
 
