@@ -365,24 +365,24 @@ One reason why Python is so popular is its libraries. We have many libraries gea
  - scikit-learn
  - scipy
  - numpy
- - pandas
+ - [pandas](https://data-flair.training/blogs/pandas-tutorials-home/)
  - xgboost
  - keras
- - tensorflow
+ - **[tensorflow](https://data-flair.training/blogs/tensorflow-tutorials-home/)**
  - matplotlib
  - seaborn
  - theano
  - mlpy
- - NetworkX
+ - [NetworkX](https://networkx.github.io/)
  - SymPy
  - Dask
  - Dmelt
- - PyBrain
+ - [PyBrain](http://pybrain.org/)
 
 ***What Next***
- - Learn Python for Machine Learning
- - Learn Python for Data Science
- - Learn Python for Artificial Intelligence
+ - [Learn Python for Machine Learning](https://data-flair.training/blogs/python-machine-learning-tutorial/)
+ - [Learn Python for Data Science](https://data-flair.training/blogs/python-for-data-science/)
+ - [Learn Python for Artificial Intelligence](https://data-flair.training/blogs/python-ai-tutorial/)
 
 ## 16. Companies Using Python
 
@@ -390,12 +390,12 @@ Many giant companies use Python for their products and services. Some of these a
 
  - Google - Python as a major programming language
  - Facebook - For production engineering
- - NASA Workflow Automation Tool - Written in Python
- - Nokia - Platforms like S60
+ - [NASA](https://code.nasa.gov/) Workflow Automation Tool - Written in Python
+ - [Nokia - Platforms like S60](https://en.wikipedia.org/wiki/Python_for_S60)
  - IBM - Factor tool control applications
  - Walt Disney Feature Animation - Scripting language for animation
  - Yahoo! Maps services - Written in Python
- - Disqus - Commenting forum built with Django
+ - [Disqus](https://disqus.com/) - Commenting forum built with Django
  - Dropbox stack - Written in Python
  - Quora - Social website written in Python
  - Instagram - Built with Django
@@ -407,10 +407,10 @@ Many giant companies use Python for their products and services. Some of these a
 
 ### a. Python at Netflix
 
-Netflix uses Python for data analysis and its backend services. It is how it recommends new titles. Netflix also uses Python to build custom extensions to the Jupyter server. This can be used to manage tasks like logging, archiving, publishing and cloning notebooks. Netflix uses the statistical and numerical libraries like numpy, scipy, tuptures, and pandas. It also uses Python for automation, data exploration, and visualization. It implements demand engineering, insight engineering, Open Connect Network, Information Security, an ML infrastructure, Notebooks, a Partner Ecosystem, and Animation and NVFX.
+**[Netflix uses Python](https://data-flair.training/blogs/python-at-netflix/)** for data analysis and its backend services. It is how it recommends new titles. Netflix also uses Python to build custom extensions to the Jupyter server. This can be used to manage tasks like logging, archiving, publishing and cloning notebooks. Netflix uses the statistical and numerical libraries like numpy, scipy, tuptures, and pandas. It also uses Python for automation, data exploration, and visualization. It implements demand engineering, insight engineering, Open Connect Network, Information Security, an ML infrastructure, Notebooks, a Partner Ecosystem, and Animation and NVFX.
 
 ### b. Spotify
-Like Netflix, Spotify uses Python for data analysis and backend services. It uses ZeroMQ for backend communication- this is an open networking framework written in Python and C++. Python allows fast development. Also, Spotify uses it for data analytics to create suggestions and recommendations. It also uses Luigi for synchronization with Hadoop. This lets it create "Radio and Discovery".
+Like Netflix, Spotify uses [Python](https://www.python.org/) for data analysis and backend services. It uses ZeroMQ for backend communication- this is an open networking framework written in Python and C++. Python allows fast development. Also, Spotify uses it for data analytics to create suggestions and recommendations. It also uses Luigi for synchronization with Hadoop. This lets it create "Radio and Discovery".
 
 ### c. Quora
 
@@ -425,5 +425,7 @@ Facebook extensively uses Python. The libraries and frameworks reduce the code-l
 Google has been using Python since the beginning. They decided to implement Python for ease of maintenance and faster delivery than C++. They also recoded some Perl or Bash scripts into Python. Python is the official Google server-side language at Google. Peter Norvig, and American computer scientist, said "Python has been an important part of Google since the beginning and remains so as the system grows and evolves. Today, dozens of Google engineers use Python, and we're looking for more people with skills in this language."
 
 
-This was the A-Z of Python. We tried to cover everything you could want to know. We discussed Python, its syntax, why and how to learn, a short tutorials, some libraries, names of projects, interview questions, its future, Python for Machine Learning, companies and some case studies.
+This was the A-Z of Python. We tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn, a short tutorials, some libraries, names of projects, interview questions, its future, Python for Machine Learning, companies and some case studies.
 
+**Are you looking to become a Python expert?**
+**[Join DataFlair's Certified Python Course](https://data-flair.training/python-course/) & become industry ready
