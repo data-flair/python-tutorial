@@ -331,7 +331,13 @@ You can also build a project to solve a real problem you face or faced earlier.
 
 ## 12. Should I Go for the Python Certification?
 
-There is no official certified exam for Python. **[DataFlair offers an excellent certification program for Python](https://data-flair.training/python-course/)**. This has more than 20 hours of video-based sessions, tons of practicals, and 5 exciting projects to build- with complete source code!
+Open Education and Development Group (OpenEDG) together with Cisco Networking Academy – the leading global education program, and Pearson VUE – the leader in computer-based testing, have established collaboration for the delivery of learning and certification programs created for the Python programming language.
+
+Certification roadmap: https://pythoninstitute.org/certification-tracks
+For each level You are provided with a free Course which You can access directly on: https://edube.org/
+All courses are free. Only for final exam You need a voucher. Exams from associate level are performed in testing center.
+
+**[DataFlair offers an excellent certification program for Python](https://data-flair.training/python-course/)**. This has more than 20 hours of video-based sessions, tons of practicals, and 5 exciting projects to build- with complete source code!
 
 ## 13. Python Interview Questions
 
