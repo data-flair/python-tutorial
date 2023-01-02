@@ -116,7 +116,7 @@ Let’s talk about the important concepts you should learn in Python.
    - [Variables and Data Types](https://data-flair.training/blogs/python-variables-and-data-types/)
      - [Numbers](https://data-flair.training/blogs/python-number-types-conversion/)
      - [Strings](https://data-flair.training/blogs/python-string/)
-     - Booleans
+     - [Booleans](https://www.scaler.com/topics/python/boolean-operators-in-python/)
    - [Variable Scope](https://data-flair.training/blogs/python-variable-scope/)
    - [Identifiers](https://data-flair.training/blogs/identifiers-in-python/)
    - [Namespace and Scope](https://data-flair.training/blogs/python-namespace-and-variable-scope/)
