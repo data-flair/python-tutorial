@@ -1,5 +1,5 @@
 # Python Tutorial
-This Python tutorial for beginners provides complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn python from scratch. Go from zero to hero with this python tutorial
+This Python tutorial for beginners provides a complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn Python from scratch. Go from zero to hero with this [Python tutorial](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_)
 
 ## 1. What is Python?
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
@@ -12,12 +12,12 @@ Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to ma
 **There is more than one reason why you should learn this language:**
 
  - It is great for both startups as well as big organizations. It is also beginner-friendly.
- - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used languages on GitHub, and the largest Meetup communities.
+ - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used language on GitHub, and the largest Meetup communities.
  - It has great career opportunities. Python jobs pay well and provide stability.
  - Python has many powerful frameworks like [Django](https://data-flair.training/blogs/django-tutorials-home/) and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
  - It is also great for machine learning, data science, and artificial intelligence. It has libraries for tasks involved in these domains.
  - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
- - Python’s readability and ease-of-use make developers more productive.
+ - Python’s readability and ease of use make developers more productive.
 
 [Top 7 reasons why you must learn python](https://data-flair.training/blogs/why-should-i-learn-python/)
 
@@ -63,7 +63,7 @@ Want to learn Python and build a career in it? We have laid down steps to help y
 ### Top Python Books
 These are some books you should read to improve your Python skills:
 
- - Learning Python - Mark Lutz
+ - [Learning Python - Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
  - Python Cookbook - David Beazley and Brian K. Jones
  - Python for Data Analysis - Wes McKinney
  - Python Essential Reference - David Beazley
@@ -129,7 +129,7 @@ Let’s talk about the important concepts you should learn in Python.
  - **[Data Structures](https://data-flair.training/blogs/python-data-structures-tutorial/)**
    - Lists
    - Tuples
-   - Dictionaries
+   - [Dictionaries](https://www.youtube.com/watch?v=5XlRrQYwM5Y)
    - Sets
    - Comprehensions
  - [Decision Making](https://data-flair.training/blogs/python-decision-making-expressions/)
@@ -206,7 +206,7 @@ Python files may have one of the following extensions:
 
 ## 7. Python Syntax
 
-To learn about variables, operators, and other topics, refer to the links above. Here, we will talk about the **[syntax of Python code](https://data-flair.training/blogs/python-syntax-semantics/)**.
+Refer to the links above to learn about variables, operators, and other topics. Here, we will talk about the **[syntax of Python code](https://data-flair.training/blogs/python-syntax-semantics/)**.
 
  - Line Structure - Python Programs consist of logical lines. Each line has a NEWLINE token at the end. Blank lines are ignored.
  - Multiline statements - There are no semicolons or braces in Python (you can use semicolons if you want, but they are not mandatory)
